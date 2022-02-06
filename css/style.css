@@ -23,9 +23,24 @@
 }
 
 /* button style */
+.btn-2{
+    background-color: #333;
+    outline: none;
+    border: none;
+}
+.btn-2:hover{
+    background-color: #F0A500;
+    outline: none;
+}
 .btn-cs{
     width:100%;
     background-color: #333;
+    outline: none;
+    border: none;
+}
+.btn-cs:hover{
+    background-color: #F0A500;
+    outline: none;
 }
 
 html{
