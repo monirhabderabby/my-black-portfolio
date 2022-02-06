@@ -1,0 +1,46 @@
+/* #Navbar color */
+.nav-color{
+    background-color: #1a1a1a;
+    color: white;
+}
+.black{
+    background-color: #1c1c1c
+}
+
+.home-banner{
+    padding-left: 10%;
+}
+.title-color{
+    color: #F0A500;
+}
+/* font style */
+.title-font{
+    font-size: 400%;
+}
+/* image style */
+.img-cs{
+    border: 5px solid #F0A500;
+}
+
+/* button style */
+.btn-cs{
+    width:100%;
+    background-color: #333;
+}
+
+html{
+    font-size: 100%;
+    overflow-x: hidden;
+}
+
+html::-webkit-scrollbar{
+    width:1.4rem;
+}
+
+html::-webkit-scrollbar-track{
+    background:#222;
+}
+
+html::-webkit-scrollbar-thumb{
+    background:var(--yellow);
+}
